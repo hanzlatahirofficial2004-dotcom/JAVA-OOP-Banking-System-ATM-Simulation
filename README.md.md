@@ -85,7 +85,7 @@ java -cp bin app.Main
 
 ## 📸 Screenshots
 
-### Home Screen
+### Home Screen screenshot
 ![Home Screen](screenshots/home.png)
 
 ---
