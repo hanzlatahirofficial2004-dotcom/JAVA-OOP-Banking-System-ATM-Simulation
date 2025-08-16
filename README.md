@@ -21,6 +21,27 @@ Java-Banking-System-ATM-Simulation/
 └── README.md # Project readme
 ## 🚀 How to Run  
 
+
+## 🛠️ Tech Stack  
+
+- **Java (JDK 8+)** – Core language  
+- **NetBeans IDE** – Development environment  
+- **OOP Principles** – Abstraction, Encapsulation, Inheritance  
+- **Console-based UI** – For user interaction  
+
+---
+
+## ✨ Features  
+
+✔️ Deposit Money 🏦  
+✔️ Withdraw Money 💸  
+✔️ Check Balance 📊  
+✔️ Calculate Interest 📈  
+✔️ User-friendly Console Menu 🎯  
+✔️ Error Handling for Invalid Inputs ⚠️  
+
+---
+
 1. Compile the project:  
    ```bash
    javac src/com/mycompany/banking_system/Banking_System.java
