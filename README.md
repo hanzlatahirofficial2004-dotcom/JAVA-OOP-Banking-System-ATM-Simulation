@@ -8,7 +8,7 @@ This console app allows users to Deposit 🏦, Withdraw 💸, Check Balance 📊
 ## 📸 Screenshots  
 Screenshots are available in the **`/screenshots`** folder.  
 Example:  
-![ATM Menu](screenshots/menu.png)  
+![ATM Menu](screenshots/home.png)  
 
 ---
 
