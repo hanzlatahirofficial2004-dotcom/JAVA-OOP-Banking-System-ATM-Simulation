@@ -83,11 +83,10 @@ java -cp bin app.Main
 
 ---
 
-## 📸 Screenshots (Optional)
-Add images in a `screenshots/` folder and reference them here:
-```
-![ATM Menu](screenshots/menu.png)
-```
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
 
 ---
 
