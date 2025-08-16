@@ -19,7 +19,6 @@ Java-Banking-System-ATM-Simulation/
 ├── src/com/mycompany/banking_system/ # Source code
 ├── screenshots/ # Screenshots
 └── README.md # Project readme
-## 🚀 How to Run  
 
 
 ## 🛠️ Tech Stack  
@@ -42,6 +41,12 @@ Java-Banking-System-ATM-Simulation/
 
 ---
 
+## 🚀 How to Run    
+
+1. Compile the project:  
+   ```bash
+   javac src/com/mycompany/banking_system/Banking_System.java
+   
 1. Compile the project:  
    ```bash
    javac src/com/mycompany/banking_system/Banking_System.java
