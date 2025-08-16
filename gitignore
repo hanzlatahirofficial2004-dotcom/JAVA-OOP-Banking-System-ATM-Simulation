@@ -1,0 +1,40 @@
+# ---- NetBeans / Java / Common ----
+# NetBeans private metadata
+nbproject/private/
+
+# Build outputs
+build/
+dist/
+nbbuild/
+nbdist/
+*.nbm
+
+# If using Gradle
+.gradle/
+build/
+
+# If using Maven
+target/
+
+# Java
+*.class
+*.log
+
+# IntelliJ / IDEs (if you ever open the project there)
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Archive junk
+*.zip
+*.tar
+*.tar.gz
